@@ -1,0 +1,40 @@
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Bot Application.dll.config
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Bot Application.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Bot Application.pdb
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Autofac.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Chronic.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Builder.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Connector.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Rest.ClientRuntime.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Newtonsoft.Json.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Net.Http.Formatting.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Web.Http.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Web.Http.WebHost.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Autofac.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Builder.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.Bot.Connector.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\Newtonsoft.Json.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Net.Http.Formatting.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Web.Http.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\System.Web.Http.WebHost.xml
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\obj\Debug\ISIF.csprojResolveAssemblyReference.cache
+E:\visual studio 2017\Projects\ISIF\ISIF\obj\Debug\Bot Application.dll
+E:\visual studio 2017\Projects\ISIF\ISIF\obj\Debug\Bot Application.pdb
