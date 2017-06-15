@@ -1,15 +1,16 @@
-﻿
-using ISIF.Model;
+﻿using ISIF.Model;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.FormFlow;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
 using Microsoft.Bot.Connector;
 using System;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ISIF.Dialogs
 {
+#pragma warning disable 1998
     [LuisModel("0a55e58f-ac75-44c6-8c3d-069a3cce4b26", "50f234d8ab7f4e5c88aa536006a44bcb")]
     [Serializable]
     public class ISIFdialog : LuisDialog<object>
