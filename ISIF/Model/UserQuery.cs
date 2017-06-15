@@ -11,9 +11,9 @@ namespace ISIF.Model
     {
         [Prompt("Please enter your {&}")]
         [Optional]
-        public string accountName { get; set; }
+        public string AccountName { get; set; }
         [Prompt("Please enter your {&}")]
-        
+
         public string requester { get; set; }
         [Prompt("Please enter your {&}")]
         [Optional]

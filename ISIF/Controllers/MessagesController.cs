@@ -40,13 +40,7 @@ namespace ISIF
             }
             else if (message.Type == ActivityTypes.ConversationUpdate)
             {
-                // Handle conversation state changes, like members being added and removed
-                // Use Activity.MembersAdded and Activity.MembersRemoved and Activity.Action for info
-                // Not available in all channels
-            }
-            else if (message.Type == ActivityTypes.ContactRelationUpdate)
-            {
-                IConversationUpdateActivity update = message;
+                 IConversationUpdateActivity update = message;
                 using (var scope = DialogModule.BeginLifetimeScope(Conversation.Container, message))
                 {
                     var client = scope.Resolve<IConnectorClient>();
@@ -60,6 +54,11 @@ namespace ISIF
                         
                     }
                 }
+              
+            }
+            else if (message.Type == ActivityTypes.ContactRelationUpdate)
+            {
+               
             }
             else if (message.Type == ActivityTypes.Typing)
             {
